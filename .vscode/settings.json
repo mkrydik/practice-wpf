@@ -1,0 +1,8 @@
+{
+  "[cpp]": {
+    "files.encoding": "utf8bom"
+  },
+  "[csharp]": {
+    "files.encoding": "utf8bom"
+  }
+}
